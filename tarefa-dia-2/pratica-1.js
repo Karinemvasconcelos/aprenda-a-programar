@@ -8,3 +8,8 @@ let SuaIdade
 SuaIdade = "23"
 let SeuSonho
 SeuSonho = "Italia"
+console.log(SeuNome)
+console.log(SeuEmail)
+console.log(SuaProfissao)
+console.log(SuaIdade)
+console.log(SeuSonho)
